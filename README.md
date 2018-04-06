@@ -1,2 +1,2 @@
 # Azure-Documents
-All Azure related documents adding 
+All Azure related documents added
